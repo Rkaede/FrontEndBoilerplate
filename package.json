@@ -1,0 +1,20 @@
+{
+  "name": "FrontEndBoilerplate",
+  "version": "1.0.0",
+  "description": "A front end seed project that includes babel (with modules), sass, and jade.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babelify": "^6.1.2",
+    "browserify": "^10.2.4",
+    "gulp-babel": "^5.1.0",
+    "gulp-jade": "^1.0.1",
+    "gulp-sass": "^2.0.3",
+    "gulp-sourcemaps": "^1.5.2",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}

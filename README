@@ -1,0 +1,10 @@
+A front end project seed that includes:
+- Gulp
+- Babel (modules via browserify)
+- SASS
+- Jade
+
+todo:
+- Jasmine
+- Flo
+
